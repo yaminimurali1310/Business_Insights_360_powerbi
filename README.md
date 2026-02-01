@@ -15,7 +15,7 @@ This project focuses on building a scalable, interactive Power BI dashboard that
 
 🚀 Key Highlights & Features
 
-. Developed a comprehensive Business 360 Power BI report with multi-page navigation, interactive buttons, and drill-through functionality for executive-level analysis
+. Developed a comprehensive Business 360 Power BI report with multi-page navigation(INFO Page,Financial,Sales,Market,Supply Chain,Executive View)  , interactive buttons, and drill-through functionality for executive-level analysis
 
 . Designed KPI-driven dashboards using advanced DAX measures, calculated tables, and conditional formatting to track performance, trends, and variances
 
